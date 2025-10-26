@@ -56,6 +56,11 @@ body{
     margin-top: -250px;
     width: 200px;
 }
+#photo{
+font-size: 8px;
+    margin-left: -300px;
+    width:fit-content
+}
 #box{
     width:340px;
     height: 80px;
@@ -136,6 +141,11 @@ margin-left: -900px;
   width: 500px;
 
 }
+    #photo{
+font-size: 8px;
+    margin-left: -600px;
+    width:fit-content
+}
 .card{
     display:flex;
 flex-direction: column;
@@ -190,4 +200,5 @@ width: 3800px;
     opacity: 0.7;
     cursor:pointer;
 }
+
 }
