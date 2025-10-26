@@ -58,8 +58,8 @@ body{
 }
 #photo{
 font-size: 8px;
-   
-    width:fit-content
+ width:fit-content;
+margin-right:-200px;
 }
 #box{
     width:340px;
@@ -143,8 +143,8 @@ margin-left: -900px;
 }
     #photo{
 font-size: 8px;
-    
-    width:fit-content
+    margin-left:300px;
+    width:fit-content;
 }
 .card{
     display:flex;
