@@ -1,5 +1,5 @@
 body{
-    background-image:url('.background-desktop.png' )!important;
+    background-image:url('background-desktop.png' )!important;
    overflow: hidden;
     background-size:cover;
     background-repeat: no-repeat;
