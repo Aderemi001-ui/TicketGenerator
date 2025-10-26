@@ -1,5 +1,5 @@
 body{
-    background-image: url('./ticketimages/background-desktop.png' )!important;
+    background-image: url('./background-desktop.png' )!important;
    overflow: hidden;
     background-size:cover;
     background-repeat: no-repeat;
@@ -104,7 +104,7 @@ body{
 }
 @media(max-width:700px){
     body{
-    background-image: url('./ticketimages/background-desktop.png' )!important;
+    background-image: url('./background-desktop.png' )!important;
    overflow-y: hidden !important;
     background-size:cover;
     background-repeat: no-repeat;
