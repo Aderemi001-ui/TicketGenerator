@@ -38,5 +38,6 @@ alert(` Congratulations!! ,${nameval} .You have successfully registered your eve
 }
 
 function avatarPopOut(){
-avatar.innerHTML=`<img src='/ticket-Generator/ticketimages/image-avatar.jpg' width='40px' height='40px' style='margin-bottom:5px'>`
+avatar.innerHTML=`<img src='image-avatar.jpg' width='40px' height='40px' style='margin-bottom:5px'>`
 }
+
